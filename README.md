@@ -5,4 +5,4 @@ This app lets you to create an account and then login to search for near by plac
 * Download the code
 * Create virual environment 
 * Install the requirements by using the requirements.txt file
-* run the routes.py file
+* run routes.py file
